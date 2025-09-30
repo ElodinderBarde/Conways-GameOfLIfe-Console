@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\structPosition.obj",
+            "outputs": [
+                "x64\\Debug\\structPosition.h_78A13C4DCFA067FF.ifc.dt.module.json",
+                "x64\\Debug\\structPosition.h_78A13C4DCFA067FF.ifc.dt.d.json",
+                "x64\\Debug\\structPosition.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\TFS\\RmiProd\\ZZ_Apprentice_Team\\_projects\\marchese\\Grundlagen\\Leitfaden\\andere\\Eigene\\MiniGames\\GameOfLife\\Include\\structPosition.h",
+                    "source-path": "c:\\tfs\\rmiprod\\zz_apprentice_team\\_projects\\marchese\\grundlagen\\leitfaden\\andere\\eigene\\minigames\\gameoflife\\include\\structposition.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

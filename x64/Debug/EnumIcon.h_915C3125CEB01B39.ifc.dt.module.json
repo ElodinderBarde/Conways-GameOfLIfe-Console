@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\EnumIcon.obj",
+            "outputs": [
+                "x64\\Debug\\EnumIcon.h_915C3125CEB01B39.ifc.dt.module.json",
+                "x64\\Debug\\EnumIcon.h_915C3125CEB01B39.ifc.dt.d.json",
+                "x64\\Debug\\EnumIcon.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\TFS\\RmiProd\\ZZ_Apprentice_Team\\_projects\\marchese\\Grundlagen\\Leitfaden\\andere\\Eigene\\MiniGames\\GameOfLife\\EnumIcon.h",
+                    "source-path": "c:\\tfs\\rmiprod\\zz_apprentice_team\\_projects\\marchese\\grundlagen\\leitfaden\\andere\\eigene\\minigames\\gameoflife\\enumicon.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GridState.h.obj",
+            "outputs": [
+                "C:\\TFS\\RmiProd\\ZZ_Apprentice_Team\\_projects\\marchese\\Grundlagen\\Leitfaden\\andere\\Eigene\\MiniGames\\GameOfLife\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\TFS\\RmiProd\\ZZ_Apprentice_Team\\_projects\\marchese\\Grundlagen\\Leitfaden\\andere\\Eigene\\MiniGames\\GameOfLife\\x64\\Debug\\GridState.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Include\\GridState.h",
+                    "source-path": "c:\\tfs\\rmiprod\\zz_apprentice_team\\_projects\\marchese\\grundlagen\\leitfaden\\andere\\eigene\\minigames\\gameoflife\\include\\gridstate.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

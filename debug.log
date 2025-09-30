@@ -1,0 +1,66 @@
+Engine gestartet
+Erste Generation erzeugt (10 Zellen erstellt)
+Generation 0: Alive = 34
+NextGeneration: born = 5, died = 6, alive = 33
+[DEBUG] Prüfe Intervall: Generation = 0, Interval = 20
+Generation 1: Alive = 33
+NextGeneration: born = 3, died = 7, alive = 29
+[DEBUG] Prüfe Intervall: Generation = 1, Interval = 20
+Generation 2: Alive = 29
+NextGeneration: born = 8, died = 6, alive = 31
+[DEBUG] Prüfe Intervall: Generation = 2, Interval = 20
+Generation 3: Alive = 31
+NextGeneration: born = 7, died = 6, alive = 32
+[DEBUG] Prüfe Intervall: Generation = 3, Interval = 20
+Generation 4: Alive = 32
+NextGeneration: born = 5, died = 4, alive = 33
+[DEBUG] Prüfe Intervall: Generation = 4, Interval = 20
+Generation 5: Alive = 33
+NextGeneration: born = 6, died = 2, alive = 37
+[DEBUG] Prüfe Intervall: Generation = 5, Interval = 20
+Generation 6: Alive = 37
+NextGeneration: born = 6, died = 9, alive = 34
+[DEBUG] Prüfe Intervall: Generation = 6, Interval = 20
+Generation 7: Alive = 34
+NextGeneration: born = 5, died = 3, alive = 36
+[DEBUG] Prüfe Intervall: Generation = 7, Interval = 20
+Generation 8: Alive = 36
+NextGeneration: born = 9, died = 6, alive = 39
+[DEBUG] Prüfe Intervall: Generation = 8, Interval = 20
+Generation 9: Alive = 39
+NextGeneration: born = 8, died = 6, alive = 41
+[DEBUG] Prüfe Intervall: Generation = 9, Interval = 20
+Generation 10: Alive = 41
+NextGeneration: born = 7, died = 12, alive = 36
+[DEBUG] Prüfe Intervall: Generation = 10, Interval = 20
+Generation 11: Alive = 36
+NextGeneration: born = 4, died = 7, alive = 33
+[DEBUG] Prüfe Intervall: Generation = 11, Interval = 20
+Generation 12: Alive = 33
+NextGeneration: born = 5, died = 5, alive = 33
+[DEBUG] Prüfe Intervall: Generation = 12, Interval = 20
+Generation 13: Alive = 33
+NextGeneration: born = 5, died = 8, alive = 30
+[DEBUG] Prüfe Intervall: Generation = 13, Interval = 20
+Generation 14: Alive = 30
+NextGeneration: born = 3, died = 6, alive = 27
+[DEBUG] Prüfe Intervall: Generation = 14, Interval = 20
+Generation 15: Alive = 27
+NextGeneration: born = 3, died = 2, alive = 28
+[DEBUG] Prüfe Intervall: Generation = 15, Interval = 20
+Generation 16: Alive = 28
+NextGeneration: born = 3, died = 1, alive = 30
+[DEBUG] Prüfe Intervall: Generation = 16, Interval = 20
+Generation 17: Alive = 30
+NextGeneration: born = 5, died = 3, alive = 32
+[DEBUG] Prüfe Intervall: Generation = 17, Interval = 20
+Generation 18: Alive = 32
+NextGeneration: born = 3, died = 1, alive = 34
+[DEBUG] Prüfe Intervall: Generation = 18, Interval = 20
+Generation 19: Alive = 34
+NextGeneration: born = 7, died = 3, alive = 38
+[DEBUG] Prüfe Intervall: Generation = 19, Interval = 20
+Generation 20: Alive = 38
+NextGeneration: born = 4, died = 7, alive = 35
+[DEBUG] Prüfe Intervall: Generation = 20, Interval = 20
+[DEBUG] Intervall erreicht, nach if: Generation = 20, Interval = 20
